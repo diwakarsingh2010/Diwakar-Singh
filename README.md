@@ -5,6 +5,15 @@
 
 - 🌱 I’m currently learning **R language , and ML Models**
 
+- 🌱Skills
+-	Programming		Python (Pandas, NumPy, Matplotlib) SQL, Excel VBA Macros
+-	Visualization		Tableau, Power BI, Excel Charts, Matplotlib (using Jupyter Notebook)
+-	Database		MySQL, Oracle
+-	Applications		SAP -IS
+-	CRM			Salesforce
+-	Web Technology	HTML, CSS, Web scraping with Beautiful Soup
+
+
 - 📫 How to reach me **diwakarsingh2010@gmal.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diwakar-singh-81882056/](https://www.linkedin.com/in/diwakar-singh-81882056/)
