@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwakar Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="Right" Alt="Coding" width="400" src="[https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif](https://miro.medium.com/v2/resize:fit:540/1*J_EXEmUkOcg-rgzJudUhZQ.png)">
+<img align="Right" Alt="Coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=6c09b952fd7m64fwh4m16v4eubi0o0v58vgpg15lr14yccwo&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🌱 I’m currently learning **R language , and ML Models**
 
